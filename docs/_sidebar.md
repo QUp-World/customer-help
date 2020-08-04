@@ -1,7 +1,7 @@
 - Customer Help Center
   - Ride with us
     - [How to create an account](customer/1-create-account.md)
-    - [Device Recommendations](customer/2-device-recommendation.md)
+    - [Device recommendations](customer/2-device-recommendation.md)
   - Tips during rides
     - [Adding favorite locations](customer/3-add-favorite-locations.md)
     - [Request a ride](customer/4-request-a-ride.md)
