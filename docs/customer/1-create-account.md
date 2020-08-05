@@ -7,7 +7,11 @@ To use our app, you first need to download **{{fleetName}}** on your smartphones
 1. Go to the app stores
     - [**App Store**]({{appleStoreLink}}) for iPhone
     - [**Play Store**]({{androidStoreLink}}) for Android
-2. Tap to install our FREE app to your smartphone
+
+Alternatively, scan the QR code below and get to **{{fleetName}}** apps directly.  
+![N|Solid](https://static-qup.s3-us-west-1.amazonaws.com/gojo/gojo-customer-app.png ':size=250')
+
+2. Tap to install our FREE app on your smartphone
 
 <h2>Register an account</h2>
 
