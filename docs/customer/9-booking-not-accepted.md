@@ -2,7 +2,7 @@
 
 We appreciate your patience while we are searching a driver for you.
 During peak hours or bad weather conditions, high demand may result in fewer available cars or drivers who are already committed to other passengers.
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/searching-driver.png)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/searching-driver.png ':size=300')
 
 We are constantly improving our service by allocating more drivers to high-demand areas and we seek your kind understanding.
 

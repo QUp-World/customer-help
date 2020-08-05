@@ -17,8 +17,9 @@ The pickup location will automatically set to your current GPS location.
 To change the pickup location:
 - Tap the auto-filled pick-up address;
 - Tap ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/map-icon.JPG) in the top right corner;
+
 - Drag the pin on maps to specify your desired pick-up location
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/change-pick-up.gif)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/change-pick-up.gif ':size=300')
 
 <h2>Schedule a ride</h2>
 To order a ride for a later time:

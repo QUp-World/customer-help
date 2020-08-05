@@ -2,7 +2,7 @@
 
 If you wish to contact your driver about a pickup location or other details of the ride you requested, you can do that through the app
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/contact_driver.png)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/contact_driver.png ':size=300')
 
 ### Call the driver
 - Tap ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/call_icon.JPG)

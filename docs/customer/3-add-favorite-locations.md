@@ -41,4 +41,6 @@ Yes. To do that,
 
 </details>
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/saved-places.gif)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/saved-places.gif ':size=300')
+
+Tap to view

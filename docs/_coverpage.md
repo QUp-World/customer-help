@@ -20,5 +20,5 @@ Don't see anything that can help you here? Please email us at:
 
 <div class="buttons">
   <a href="https://gojo.asia"><span>Gojo.asia</span></a>
-  <a href="https://qup-world.github.io/customer-help/#/README"><span>Get Started</span></a>
+  <a href="#/customer/1-create-account.md"><span>Get Started</span></a>
 </div>

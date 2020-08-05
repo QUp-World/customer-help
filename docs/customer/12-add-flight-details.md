@@ -8,8 +8,8 @@ If you are requesting a ride from an airport, we recommend you add your flight I
 3. Enter your flight ID and tap **Apply**.
 
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-flight.PNG)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-flight.PNG ':size=300')
 
 If you skip the recommendation after entering the pick-up and drop-off, tap ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/icon-add-more.JPG) to continue enter the flight ID.
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-more.jpg)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-more.jpg ':size=300')

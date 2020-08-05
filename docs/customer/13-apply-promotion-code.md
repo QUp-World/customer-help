@@ -8,7 +8,7 @@ To add a promotion code to your booking:
 
 1. At the booking details you are creating, tap  **Promo**.
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/promo.jpg)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/promo.jpg ':size=300')
 
 2. Enter the promotion code that is applied to your account.
 If the promotion code is already added, you just need to choose it.
@@ -30,4 +30,4 @@ After adding the code, you will see if the code is valid for your account. Each 
 Promotion codes added in **Promotions** tab will be automatically listed in **Promo** in the booking details for you to select.
 
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-promo.PNG)
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-promo.PNG ':size=300')
