@@ -1,7 +1,7 @@
 <h1>Find my lost items</h1>
 
-If you lost an item on a trip, please contact our call center at <a href="tel:{{fleetPhoneNumber}}"> {{fleetPhoneNumber}} </a>
- or <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a> and provide us with the following information:
+If you lost an item on a trip please email us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a> and provide us with the following information:
+
 - Describe the lost item;
 - Booking ID in which you missed your item.
 
