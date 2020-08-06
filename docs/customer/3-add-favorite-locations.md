@@ -8,6 +8,8 @@ Booking a ride to your office, your school or home has never been easier and fas
 > 3. Key in an address and tap **Save**
 > 4. The addresses will appear as a shortcut every time you book a ride. You are now just one tap away from where you want to be.
 
+</br>
+
 <details>
 
 <summary><b>Can I edit a saved place?</b></summary>
@@ -41,6 +43,4 @@ Yes. To do that,
 
 </details>
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/saved-places.gif ':size=300')
-
-Tap to view
+![N|Solid](https://static-qup.s3-us-west-1.amazonaws.com/gojo/favorite-location.gif ':size=250')

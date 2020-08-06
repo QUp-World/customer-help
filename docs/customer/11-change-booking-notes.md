@@ -1,17 +1,16 @@
 <h1>Add or Change notes to my bookings</h1>
 
-Let drivers know additional information about your booking by adding a note to it.
+Add a note if you want to let the driver know about some additional information.
 
 ##### **How to add notes**
-- In the booking details you are creating, tap ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/icon-add-more.JPG)
+- In the booking details you are creating, **tap** ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/icon-add-more.JPG)
 
-
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-more.jpg ':size=300')
+![N|Solid](https://static-qup.s3-us-west-1.amazonaws.com/gojo/add-more.PNG ':size=250')
 
 - Enter the information you want your drivers to be aware of.
 
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/add-notes.PNG ':size=300')
+![N|Solid](https://static-qup.s3-us-west-1.amazonaws.com/gojo/add-note.PNG ':size=250')
 
 You can even add notes after the trip is created.
 
@@ -23,4 +22,4 @@ Want to change the note you have added? Just a tap of a button to update it!
 - Update.
 
 
-![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/update-notes.jpg ':size=300')
+![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/update-notes.jpg ':size=250')

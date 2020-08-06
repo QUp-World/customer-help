@@ -7,14 +7,6 @@ Please note tipping follows your mode of payment selected for the trip so for ca
 
 You can add the tip in the app soon after it completes. The total fare and receipt reflects the tip you add on the app.
 
-### Add a tip later
-
-To ensure a smooth and uninterrupted ride, you have an option tip drivers after your trip up to 72 hours at a time when it’s convenient for you.
-</br>
-> **How to tip after rides**
-- Go to your ride history in **My Bookings** - **Finished** tab.
-- Choose a ride and input an tipping amount.
-
 </br>
 
 ### Frequent Asked Questions
@@ -59,14 +51,4 @@ Yes, it is possible. Once you are picked up, you are able to adjust the tip amou
 
 </details>
 
----
 
-<details>
-
-<summary>How can I tip for past trips?</summary>
-
-You have 72 hours after a ride completes to add a tip.
-
-</details>
-
----

@@ -85,3 +85,16 @@ Press and hold down the power button until the screen goes off. Press the power 
 - Log back in with your existing account information.
 
 </details>
+
+<br>
+
+<details>
+
+<summary><b>6. Report us</b></summary>
+
+If it does not work after you take above steps, please contact us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a> and provide us with the following info to verify:
+- Your phone number, which you registerd;
+- Your device info, including phone's brand and OS version, i.e. iPhone X, OS version 13.6;
+- Screenshots or videos describing the issue.
+
+</details>
