@@ -4,7 +4,7 @@
 
 </a>
 
-> A good journey begins with Gojo.
+<h1>Customer Help Guide</h1>
 
 </br>
 
