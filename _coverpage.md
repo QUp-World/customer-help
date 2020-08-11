@@ -1,8 +1,4 @@
-
-![](assets/images/logo2.png ":no-zoom")
-
-<h1>Customer Help Guide</h1>
-
+<h1>GOJO Customer Help Guide</h1>
 
 <div class="buttons">
   <a href="https://gojo.asia"><span>Back to Website</span></a>
