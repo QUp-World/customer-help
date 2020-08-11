@@ -1,14 +1,20 @@
-<h1>GOJO Customer Help Guide</h1>
+<a href="https://gojo.asia">
 
-<div class="buttons">
-  <a href="https://gojo.asia"><span>Back to Website</span></a>
-  <a href="#/customer/1-create-account.md"><span>Get Started</span></a>
-</div>
+![](assets/images/logo.png ":no-zoom")
+
+</a>
+
+<h1>Customer Help Guide</h1>
+
+</br>
 
 This guide helps to get our gojo customers up to speed. Check out all the frequently asked questions. 
 
-<div class="video-container">
+Don't see anything that can help you here? Please email us at: 
+<b><a href="mailto:klsupport@gojo.asia">klsupport@gojo.asia</a></b>
 
-<iframe src="https://www.youtube.com/embed/aKqX5pQFKoY?rel=0" frameborder="0" allow="color; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</br>
+<div class="buttons">
+  <a href="https://gojo.asia"><span>Gojo.asia</span></a>
+  <a href="#/customer/1-create-account.md"><span>Get Started</span></a>
 </div>
