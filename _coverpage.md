@@ -9,6 +9,6 @@ This guide helps to get our gojo customers up to speed. Check out all the freque
 
 <div class="video-container">
 
-<iframe width="600" height="600" src="https://www.youtube.com/embed/aKqX5pQFKoY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aKqX5pQFKoY?rel=0" frameborder="0" allow="color; accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
